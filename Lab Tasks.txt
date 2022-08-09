@@ -1,0 +1,82 @@
+1. A. Apply simple linear regression for the following data
+
+	x<-c(151,174,138,186,128,136,179,163,152,131)
+
+	y<-c(63,81,56,91,47,57,76,72,62,48)
+   B. Explain in detail about simple linear regression with an example.
+   C. Explain in detail about PAM with an example.
+
+2. A. Consider the data set "mtcars" available in the R environment. It gives a comparison between different car models in terms of mileage per gallon (mpg), cylinder displacement ("disp"), horse power ("hp"), weight of the car ("wt") and some more parameters. The goal of the model is to establish the relationship between "mpg" as a response variable with "disp","hp" and "wt" as predictor variables. We create a subset of these variables from the mtcars data set for this purpose.
+   B. Explain in detail about multiple linear regression with an example.
+   C. Explain in detail about K-means with an example.
+
+3. A. Implement correlation in R by considering or creating data as per requirement.
+   B. Explain in detail about logistic regression with an example.
+   C. Explain in detail about hierarchical clustering with an example.
+
+4. A. Implement Hierarchical clustering on iris data and then plot the graph and identify the clusters.
+   B. Explain in detail about poisons regression with an example.
+   C. Explain in detail about hierarchical clustering with an example.
+
+5. A. Implement Logistic regression with R (use cars dataset which is available in R)
+   B. Explain in detail about PAM with an example.
+   C. Explain in detail about multiple linear regression with an example.
+
+6. A. Implement Multiple Regression Analysis in R (use Air Quality Dataset)
+   B. Explain in detail about K-means with an example.
+   C. Explain in detail about logistic regression with an example.
+
+7. A. Implement one-sample t-test on father.son data.
+   B. Explain in detail about hierarchical clustering with an example.
+   C. Explain in detail about poisons regression with an example.
+
+8. A. Implement paired two sample tests on father son dataset. Plot the graph between Father Height and son height.
+   B. Explain in detail about hierarchical clustering with an example.
+   C. Explain in detail about multiple linear regression with an example.
+
+9. A. Implement PAM clustering with R by considering suitable dataset in R.
+   B. Explain in detail about K-means with an example.
+   C. Explain in detail about multiple linear regression with an example.
+
+10.A. Implement R ANOVA: One way & Two way (considering a dataset).
+   B. Explain in detail about simple linear regression with an example.
+   C. Explain in detail about K-means with an example.
+
+11. A. Implement the concept of correlation and covariance by preparing your own dataset
+    B. Explain in detail about multiple linear regression with an example.
+    C. Explain in detail about hierarchical clustering with an example.
+
+12. A. Implement the concept of correlation and covariance by preparing your own dataset
+    B.Explain in detail about logistic regression with an example.
+    C. Explain in detail about K-means with an example.
+
+13. A. Implement the concept of decision tree by using party package for iris data, after the decision is tree is build write your observations.
+    B. Explain in detail about poisons regression with an example.
+    C. Explain in detail about K-mediods with an example.
+
+14. A. Implement the concept of k-means clustering on iris data and then plot the graph and identify the clusters
+    B. Explain in detail about PAM with an example.
+
+15. A. Implement the concept of k-medoids clustering on iris data and then plot the graph and   identify the clusters.
+    B. Explain in detail about hierarchical clustering with an example.
+    C. Explain in detail about poisons regression with an example.
+
+16. A. Implement the concept of random forest for iris data, after plotting the graph write your observations.
+    B. Explain in detail about simple linear regression with an example
+    C. Explain in detail about K-mediods with an example.
+
+17. A. Implement two-sample t-test on father.son data.
+    B. Explain in detail about multiple linear regression with an example.
+    C. Explain in detail about K-means with an example.
+
+18. A. The in-built data set "mtcars" describes different models of a car with their various    engine specifications. In "mtcars" data set, the transmission mode (automatic or manual) is described by the column am which is a binary value (0 or 1). We can create a logistic regression model between the columns "am" and 3 other columns - hp, wt and cyl.
+    B. Explain in detail about logistic regression with an example.
+    C. Explain in detail about hierarchical clustering with an example.
+
+19. A. We have the in-built data set "warpbreaks" which describes the effect of wool type (A or B) and tension (low, medium or high) on the number of warp breaks per loom. Let's consider "breaks" as the response variable which is a count of number of breaks. The wool "type" and "tension" are taken as predictor variables.
+    B. Explain in detail about multiple linear regression with an example.
+    C. Explain in detail about k-mediods with an example.
+
+20. A. Write the code to plot "random normal variables and their densities", which results in a bell curve.
+    B. Explain in detail about K-means with an example.
+    C. Explain in detail about simple linear regression with an example
